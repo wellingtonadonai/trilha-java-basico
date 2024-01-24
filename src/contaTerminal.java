@@ -15,7 +15,7 @@ public class contaTerminal {
         System.out.println("Por favor, digite sua agência");
         String agência = scanner.next();
 
-        System.out.println("Por favor digite seu nome completo");
+        System.out.println("Por favor digite seu nome");
         String nomeCliente = scanner.next();
 
         System.out.println("Digite seu saldo");
