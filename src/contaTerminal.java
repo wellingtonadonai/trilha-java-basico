@@ -23,7 +23,7 @@ public class contaTerminal {
 
         System.out.println("Seu numero da conta: " + numero);
         System.out.println("Seu numero da agência: " + agência);
-        System.out.println("Olá " + nomeCliente + " Seu saldo é: " + saldo);
+        System.out.println("Olá " + nomeCliente + " Seu saldo total é: " + saldo);
 }
 
 
